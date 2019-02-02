@@ -44,5 +44,5 @@
 <sup>*</sup>Mostly!
 
 ## Homework Assignment (Due: Wednesday, February 1)
-- Complete Week 3 Lab1 (entirely)
-- Complete week 3 Lab2 (parts 1 and 4)
+- Complete Week 3 [Lab1](lab/lab1) (entirely)
+- Complete week 3 [Lab2](lab/lab2) (parts 1 and 4 only)
